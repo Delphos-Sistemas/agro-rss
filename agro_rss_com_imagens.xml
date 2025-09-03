@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Notícias do Agronegócio e Tecnologia</title>
+    <link>https://seudominio.com.br/agro_rss.xml</link>
+    <description>Feed de notícias sobre agronegócio e tecnologia</description>
+    <language>pt-BR</language>
+    <lastBuildDate>Wed, 03 Sep 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Agronegócio investe em inteligência artificial no campo</title>
+      <link>https://exemplo.com/noticia1</link>
+      <description>Produtores estão adotando soluções de IA para aumentar a produtividade e reduzir custos.</description>
+      <pubDate>Wed, 03 Sep 2025 09:00:00 GMT</pubDate>
+      <enclosure url="https://picsum.photos/seed/ia/600/300" type="image/jpeg"/>
+      <media:content url="https://picsum.photos/seed/ia/600/300" medium="image"/>
+    </item>
+
+    <item>
+      <title>Drones revolucionam o monitoramento de lavouras</title>
+      <link>https://exemplo.com/noticia2</link>
+      <description>Drones equipados com câmeras multiespectrais auxiliam no diagnóstico de pragas e na irrigação eficiente.</description>
+      <pubDate>Tue, 02 Sep 2025 15:00:00 GMT</pubDate>
+      <enclosure url="https://picsum.photos/seed/drones/600/300" type="image/jpeg"/>
+      <media:content url="https://picsum.photos/seed/drones/600/300" medium="image"/>
+    </item>
+
+    <item>
+      <title>Exportações do agronegócio batem recorde no semestre</title>
+      <link>https://exemplo.com/noticia3</link>
+      <description>Com alta na demanda de soja e milho, exportações atingem novos patamares.</description>
+      <pubDate>Mon, 01 Sep 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://picsum.photos/seed/exportacao/600/300" type="image/jpeg"/>
+      <media:content url="https://picsum.photos/seed/exportacao/600/300" medium="image"/>
+    </item>
+
+  </channel>
+</rss>
